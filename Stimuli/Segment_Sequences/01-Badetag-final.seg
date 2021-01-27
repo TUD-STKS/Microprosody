@@ -1,0 +1,8 @@
+name = ; duration_s = 0.065000; 
+name = b; duration_s = 0.032500; prosody_type = IF0; 
+name = a:; duration_s = 0.172500; word_accent = :; 
+name = d; duration_s = 0.051250; prosody_type = IF0; 
+name = @; duration_s = 0.061250; 
+name = t; duration_s = 0.136909; 
+name = a:; duration_s = 0.196841; prosody_type = CF0; 
+name = k; duration_s = 0.156250; 
