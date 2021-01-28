@@ -3,7 +3,7 @@ This repository contains the suplementary material to the paper "Modelling micro
 
 
 ## What is this code for?
-The code in this repository can be used to synthesize speech using the state-of-the-art articulatory speech synthesizer VocalTractLab<sup id="a1">[1](#f1)</sup> (VTL). Thereby a given pitch contour can automatically be modified to include microprosodic deflections based on a microprosody model developed by Birkholz and Zhang<sup id="a2">[2](#f2)</sup>.
+The code in this repository can be used to synthesize speech using the state-of-the-art articulatory speech synthesizer VocalTractLab<sup id="a1">[1](#f1)</sup> (VTL). Thereby, a given pitch contour can automatically be modified to include microprosodic deflections based on a microprosody model developed by Birkholz and Zhang<sup id="a2">[2](#f2)</sup>.
 
 ![Screenshot Target Optimizer 2.0](Examples/F0_02-Bewirken-final.png)
 
@@ -13,7 +13,7 @@ Thereby, the extent of pitch manipulation can be visualized, see the example abo
 
 
 ## Requirements
-To run the code, you will need a Python 3 (tested with version 3.7) environment and following modules must be installed:
+To run the code, you will need a Python 3 environment (tested with version 3.7) and following modules must be installed:
 - numpy    (tested with version 1.19.5)
 - pandas   (tested with version 1.2.1)
 - scipy    (tested with version 1.6.0)
@@ -42,15 +42,19 @@ This will use a python implementation of PRAAT<sup id="a3">[3](#f3)</sup> to ext
 
 ## File description
 
-It contains:
+This repository contains the following important files and folders:
 - `` Microprosody_Analysis.py`` The script to produce the audio samples and to visualize the pitch contour.
 - ```PyVTL``` A package which allows to work with VTL functions within Python.
 
-  ```└─── API``` Contains the VocalTractLab version 2.3 API files (for both Windows and Linux operating systems).
+  ```└─── API``` Contains the VTL version 2.3 API files (for both Windows and Linux operating systems).
+  
+  ```└─── Speaker``` Contains the VTL version 2.3 speaker files.
   
   ```└─── F0_Manipulation.py``` A python module that allows to superimpose microprosodic effects onto a pitch contour.
   
   ```└─── PyVTL.py``` A python wrapper module for the VTL C++ functions.
+  
+- ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files once the script was run.
 
 ## Troubleshooting
 
