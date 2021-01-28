@@ -50,9 +50,9 @@ This repository contains the following important files and folders:
   
   ```└─── Speaker``` Contains the VTL version 2.3 speaker files.
   
-  ```└─── F0_Manipulation.py``` A python module that allows to superimpose microprosodic effects onto a pitch contour.
+  ```└─── F0_Manipulation.py``` A module that allows to superimpose microprosodic effects onto a pitch contour.
   
-  ```└─── PyVTL.py``` A python wrapper module for the VTL C++ functions.
+  ```└─── PyVTL.py``` A wrapper module for the VTL C++ functions.
   
 - ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files once the script was run.
 
