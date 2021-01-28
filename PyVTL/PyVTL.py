@@ -46,10 +46,11 @@ from scipy.io import wavfile
 
 #####################################################################################################################################################
 #---------------------------------------------------------------------------------------------------------------------------------------------------#
-# Load the VocalTractLab binary 'VocalTractLabApi.dll' if you use Windows or 'VocalTractLabApi.so' if you use Linux.
 # Define the relative path to the API file:
-rel_path_to_vtl = './API/VocalTractLabApi'
-# Load the API file:
+rel_path_to_vtl = './PyVTL/API/VocalTractLabApi'
+# Define the relative path to the speaker file:
+rel_path_to_spk = './PyVTL/Speaker/'
+# Load the VocalTractLab binary 'VocalTractLabApi.dll' if you use Windows or 'VocalTractLabApi.so' if you use Linux:
 try:
 	if sys.platform == 'win32':
 		rel_path_to_vtl += '.dll'
@@ -75,7 +76,7 @@ class vtl_params():
 		self.samplerate_internal = self.samplerate_audio / self.state_samples # Internal tract samplerate (ca. 400.9090... default)
 		self.state_duration = 1 / self.samplerate_internal  # Processrate in VTL (time), currently 2.49433... ms
 		self.verbose = True
-		self.speaker_file_name = './API/JD2.speaker' # Default speaker file
+		self.speaker_file_name = rel_path_to_spk + 'JD2.speaker' # Default speaker file
 #---------------------------------------------------------------------------------------------------------------------------------------------------#
 #####################################################################################################################################################
 

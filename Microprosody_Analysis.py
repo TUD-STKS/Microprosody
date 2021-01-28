@@ -42,8 +42,8 @@
 import os, sys, argparse
 import numpy as np
 import pandas as pd
-import PyVTL
-import F0_Manipulation
+from PyVTL import PyVTL as pv
+from PyVTL import F0_Manipulation
 # Try to load some non-essential packages, used for the visualization of the pitch manipulation:
 try:
 	import matplotlib
@@ -112,7 +112,7 @@ class Analysis:
 			os.mkdir( self.tractFilePath )
 		if not os.path.exists( self.audioFilePath ):
 			os.mkdir( self.audioFilePath )
-		self.VTL = PyVTL.PyVTL()
+		self.VTL = pv.PyVTL()
 		self.F0 = F0_Manipulation.F0_Manipulation()
 		self.verbose = verbose
 		return
