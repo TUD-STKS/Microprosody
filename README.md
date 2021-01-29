@@ -3,13 +3,13 @@ This repository contains the suplementary material to the paper "Modelling micro
 
 
 ## What is this code for?
-The code in this repository can be used to synthesize speech using the state-of-the-art articulatory speech synthesizer VocalTractLab<sup id="a1">[1](#f1)</sup> (VTL). Thereby, a given pitch contour can automatically be modified to include microprosodic deflections based on a microprosody model developed by Birkholz and Zhang<sup id="a2">[2](#f2)</sup>.
+The code in this repository can be used to synthesize speech using the state-of-the-art articulatory speech synthesizer VocalTractLab<sup id="a1">[1](#f1)</sup> (VTL). The pitch contour of the synthesized utterance can be automatically modified to include microprosodic deflections based on a microprosody model developed by Birkholz and Zhang<sup id="a2">[2](#f2)</sup>.
 
 ![Screenshot Target Optimizer 2.0](Examples/F0_02-Bewirken-final.png)
 
 If the code in this repository is run without modification, it will reproduce the audio files that were used as stimuli in the listening experiment that is described in the paper "Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al.
 
-Thereby, the extent of pitch manipulation can be visualized, see the example above.
+The extent of pitch manipulation can be visualized, see the example above.
 
 
 ## Requirements
@@ -37,12 +37,12 @@ In order to visualize the effect of pitch manipulation, run:
 
 ``python Microprosody_Analysis.py --visualize``
 
-This will use a python implementation of PRAAT<sup id="a3">[3](#f3)</sup> to extract the pitch information from the produced audio samples and it will plot the pitch contour of the four different versions of each utterance on a single canvas. The phoneme sequence and the regions of the microprosodic effects will be extracted from the corresponding segment sequence file and will be plotted as well. The plots will be saved in the folder "/Figures/" that gets created automatically.
+This uses a Python wrapper of PRAAT<sup id="a3">[3](#f3)</sup> to extract the pitch information from the produced audio samples and plots the pitch contour of the four different versions of each utterance into a single figure. The phoneme sequence and the regions of the microprosodic effects are extracted from the corresponding segment sequence file and plotted as well. The plots are saved to the folder "/Figures/" that gets created automatically.
 
 
 ## File description
 
-This repository contains the following important files and folders:
+This repository contains the following files and folders:
 - `` Microprosody_Analysis.py`` The script to produce the audio samples and to visualize the pitch contour.
 - ```PyVTL``` A package which allows to work with VTL functions within Python.
 
@@ -52,7 +52,7 @@ This repository contains the following important files and folders:
   
   ```└─── F0_Manipulation.py``` A module that allows to superimpose microprosodic effects onto a pitch contour.
   
-  ```└─── PyVTL.py``` A wrapper module for the VTL C++ functions.
+  ```└─── PyVTL.py``` A wrapper module for the VTL C++ API functions.
   
 - ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files once the script was run.
 
