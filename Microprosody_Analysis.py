@@ -89,11 +89,10 @@ modes = [
 {'mode': '_mp',      'flutter': 0,   'A': 1.0},  # Manipulated stimuli with an amplitude factor of A = 1.0
 {'mode': '_mp',      'flutter': 0,   'A': 1.5},  # Manipulated stimuli with an amplitude factor of A = 1.5
 {'mode': '_mp',      'flutter': 0,   'A': 2.0},  # Manipulated stimuli with an amplitude factor of A = 2.0
-#{'mode': '_flutter', 'flutter': 25,  'A': 0.0},  # Stimuli without microprosody, but with flutter = 25
-#{'mode': '_flutter', 'flutter': 50,  'A': 0.0},  # Stimuli without microprosody, but with flutter = 50
-#{'mode': '_flutter', 'flutter': 75,  'A': 0.0},  # Stimuli without microprosody, but with flutter = 75
-#{'mode': '_flutter', 'flutter': 100, 'A': 0.0},  # Stimuli without microprosody, but with flutter = 100
 ]
+# To create samples with flutter use entries like this:
+#{'mode': '_flutter', 'flutter': 25,  'A': 0.0},  # Stimuli without microprosody, but with flutter = 25
+
 #---------------------------------------------------------------------------------------------------------------------------------------------------#
 #####################################################################################################################################################
 
