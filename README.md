@@ -1,5 +1,5 @@
 # Modelling microprosodic effects leads to an audible improvement in articulatory synthesis
-This repository contains the suplementary material to the paper "Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al. 
+This repository contains the supplementary materials to the paper "Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al. 
 
 
 ## What is this code for?
