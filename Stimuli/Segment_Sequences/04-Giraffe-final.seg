@@ -1,7 +1,7 @@
 name = ; duration_s = 0.083204; 
 name = g; duration_s = 0.107500; prosody_type = IF0; 
 name = i; duration_s = 0.104867; 
-name = r; duration_s = 0.086954; prosody_type = IF0; 
+name = R; duration_s = 0.086954; prosody_type = IF0; 
 name = a; duration_s = 0.090463; 
 name = f; duration_s = 0.153204; 
 name = @; duration_s = 0.181924; prosody_type = CF0; 

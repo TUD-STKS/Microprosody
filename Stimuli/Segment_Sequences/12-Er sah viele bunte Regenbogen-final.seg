@@ -11,7 +11,7 @@ name = U; duration_s = 0.093750;
 name = n; duration_s = 0.065000; 
 name = t; duration_s = 0.056250; 
 name = @; duration_s = 0.075000; prosody_type = CF0; 
-name = r; duration_s = 0.058750; prosody_type = IF0; 
+name = R; duration_s = 0.058750; prosody_type = IF0; 
 name = e; duration_s = 0.137500; 
 name = g; duration_s = 0.060000; prosody_type = IF0; 
 name = n; duration_s = 0.076250; 
