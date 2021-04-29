@@ -1,5 +1,7 @@
 # Modelling microprosodic effects leads to an audible improvement in articulatory synthesis
-This repository contains the supplementary materials to the paper "Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al. 
+This repository contains the supplementary materials to the paper:
+
+``"Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al.``
 
 
 ## What is this code for?
@@ -53,8 +55,10 @@ This repository contains the following files and folders:
   ```└─── F0_Manipulation.py``` A module that allows to superimpose microprosodic effects onto a pitch contour.
   
   ```└─── PyVTL.py``` A wrapper module for the VTL C++ API functions.
-  
-- ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files once the script was run.
+ 
+- ```Figures``` Contains the figures that visualize the pitch contours of manipulated and non-manipulated samples.
+
+- ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files.
 
 ## Troubleshooting
 
@@ -66,7 +70,7 @@ If PyVTL can not load the path "./API/VocalTractLabApi.dll" or "./API/VocalTract
 
 This work is distributed under the GNU GPL 3.0 License. If you use parts of this work in your own work, please cite the following reference:
 
-- The information will follow shortly -
+- P. K. Krug et al., “Modelling microprosodic effects leads to an audible improvement in articulatory synthesis,” J. Acoust. Soc. Am., 2021 (Under review)
 
 ## References
 <b id="f1">1</b> https://vocaltractlab.de/ [↩](#a1)
