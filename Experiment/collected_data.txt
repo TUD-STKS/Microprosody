@@ -1,0 +1,1801 @@
+subject,item,mode,result
+Subject_1,Badetag,_mp_1.0,0
+Subject_1,Badetag,_mp_1.5,0
+Subject_1,Badetag,_mp_2.0,0
+Subject_1,Bewirken,_mp_1.0,0
+Subject_1,Bewirken,_mp_1.5,1
+Subject_1,Bewirken,_mp_2.0,0
+Subject_1,Butterweich,_mp_1.0,1
+Subject_1,Butterweich,_mp_1.5,1
+Subject_1,Butterweich,_mp_2.0,0
+Subject_1,Giraffe,_mp_1.0,1
+Subject_1,Giraffe,_mp_1.5,1
+Subject_1,Giraffe,_mp_2.0,0
+Subject_1,Kakadu,_mp_1.0,1
+Subject_1,Kakadu,_mp_1.5,1
+Subject_1,Kakadu,_mp_2.0,1
+Subject_1,Karotte,_mp_1.0,0
+Subject_1,Karotte,_mp_1.5,1
+Subject_1,Karotte,_mp_2.0,0
+Subject_1,Kassette,_mp_1.0,1
+Subject_1,Kassette,_mp_1.5,1
+Subject_1,Kassette,_mp_2.0,0
+Subject_1,Musiker,_mp_1.0,1
+Subject_1,Musiker,_mp_1.5,1
+Subject_1,Musiker,_mp_2.0,0
+Subject_1,Vergessen,_mp_1.0,1
+Subject_1,Vergessen,_mp_1.5,1
+Subject_1,Vergessen,_mp_2.0,0
+Subject_1,Zigarre,_mp_1.0,0
+Subject_1,Zigarre,_mp_1.5,1
+Subject_1,Zigarre,_mp_2.0,0
+Subject_1,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_1,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_1,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_1,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_1,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_1,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_1,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_1,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_1,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_1,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_1,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_1,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_1,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_1,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_1,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_1,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_1,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_1,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_1,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_1,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_1,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_1,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_1,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_1,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_1,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_1,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_1,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_1,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_1,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_1,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_10,Badetag,_mp_1.0,0
+Subject_10,Badetag,_mp_1.5,1
+Subject_10,Badetag,_mp_2.0,1
+Subject_10,Bewirken,_mp_1.0,0
+Subject_10,Bewirken,_mp_1.5,1
+Subject_10,Bewirken,_mp_2.0,1
+Subject_10,Butterweich,_mp_1.0,0
+Subject_10,Butterweich,_mp_1.5,1
+Subject_10,Butterweich,_mp_2.0,1
+Subject_10,Giraffe,_mp_1.0,1
+Subject_10,Giraffe,_mp_1.5,1
+Subject_10,Giraffe,_mp_2.0,0
+Subject_10,Kakadu,_mp_1.0,0
+Subject_10,Kakadu,_mp_1.5,1
+Subject_10,Kakadu,_mp_2.0,1
+Subject_10,Karotte,_mp_1.0,1
+Subject_10,Karotte,_mp_1.5,1
+Subject_10,Karotte,_mp_2.0,1
+Subject_10,Kassette,_mp_1.0,1
+Subject_10,Kassette,_mp_1.5,1
+Subject_10,Kassette,_mp_2.0,0
+Subject_10,Musiker,_mp_1.0,1
+Subject_10,Musiker,_mp_1.5,0
+Subject_10,Musiker,_mp_2.0,1
+Subject_10,Vergessen,_mp_1.0,1
+Subject_10,Vergessen,_mp_1.5,0
+Subject_10,Vergessen,_mp_2.0,1
+Subject_10,Zigarre,_mp_1.0,1
+Subject_10,Zigarre,_mp_1.5,0
+Subject_10,Zigarre,_mp_2.0,1
+Subject_10,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_10,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_10,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_10,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_10,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_10,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_10,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_10,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_10,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_10,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_10,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_10,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_10,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_10,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_10,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_10,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_10,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_10,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_10,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_10,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_10,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_10,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_10,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_10,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_10,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_10,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_10,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_10,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_10,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_10,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_11,Badetag,_mp_1.0,0
+Subject_11,Badetag,_mp_1.5,1
+Subject_11,Badetag,_mp_2.0,0
+Subject_11,Bewirken,_mp_1.0,0
+Subject_11,Bewirken,_mp_1.5,0
+Subject_11,Bewirken,_mp_2.0,0
+Subject_11,Butterweich,_mp_1.0,1
+Subject_11,Butterweich,_mp_1.5,1
+Subject_11,Butterweich,_mp_2.0,0
+Subject_11,Giraffe,_mp_1.0,0
+Subject_11,Giraffe,_mp_1.5,1
+Subject_11,Giraffe,_mp_2.0,0
+Subject_11,Kakadu,_mp_1.0,1
+Subject_11,Kakadu,_mp_1.5,1
+Subject_11,Kakadu,_mp_2.0,1
+Subject_11,Karotte,_mp_1.0,1
+Subject_11,Karotte,_mp_1.5,1
+Subject_11,Karotte,_mp_2.0,0
+Subject_11,Kassette,_mp_1.0,1
+Subject_11,Kassette,_mp_1.5,0
+Subject_11,Kassette,_mp_2.0,0
+Subject_11,Musiker,_mp_1.0,1
+Subject_11,Musiker,_mp_1.5,1
+Subject_11,Musiker,_mp_2.0,0
+Subject_11,Vergessen,_mp_1.0,0
+Subject_11,Vergessen,_mp_1.5,0
+Subject_11,Vergessen,_mp_2.0,0
+Subject_11,Zigarre,_mp_1.0,1
+Subject_11,Zigarre,_mp_1.5,1
+Subject_11,Zigarre,_mp_2.0,0
+Subject_11,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_11,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_11,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_11,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_11,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_11,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_11,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_11,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_11,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_11,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_11,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_11,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_11,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_11,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_11,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_11,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_11,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_11,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_11,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_11,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_11,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_11,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_11,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_11,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_11,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_11,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_11,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_11,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_11,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_11,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_12,Badetag,_mp_1.0,1
+Subject_12,Badetag,_mp_1.5,0
+Subject_12,Badetag,_mp_2.0,1
+Subject_12,Bewirken,_mp_1.0,1
+Subject_12,Bewirken,_mp_1.5,0
+Subject_12,Bewirken,_mp_2.0,1
+Subject_12,Butterweich,_mp_1.0,1
+Subject_12,Butterweich,_mp_1.5,0
+Subject_12,Butterweich,_mp_2.0,0
+Subject_12,Giraffe,_mp_1.0,0
+Subject_12,Giraffe,_mp_1.5,1
+Subject_12,Giraffe,_mp_2.0,1
+Subject_12,Kakadu,_mp_1.0,1
+Subject_12,Kakadu,_mp_1.5,0
+Subject_12,Kakadu,_mp_2.0,1
+Subject_12,Karotte,_mp_1.0,1
+Subject_12,Karotte,_mp_1.5,0
+Subject_12,Karotte,_mp_2.0,1
+Subject_12,Kassette,_mp_1.0,0
+Subject_12,Kassette,_mp_1.5,1
+Subject_12,Kassette,_mp_2.0,1
+Subject_12,Musiker,_mp_1.0,0
+Subject_12,Musiker,_mp_1.5,0
+Subject_12,Musiker,_mp_2.0,1
+Subject_12,Vergessen,_mp_1.0,0
+Subject_12,Vergessen,_mp_1.5,0
+Subject_12,Vergessen,_mp_2.0,0
+Subject_12,Zigarre,_mp_1.0,1
+Subject_12,Zigarre,_mp_1.5,0
+Subject_12,Zigarre,_mp_2.0,0
+Subject_12,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_12,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_12,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_12,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_12,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_12,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_12,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_12,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_12,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_12,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_12,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_12,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_12,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_12,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_12,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_12,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_12,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_12,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_12,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_12,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_12,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_12,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_12,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_12,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_12,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_12,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_12,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_12,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_12,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_12,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_13,Badetag,_mp_1.0,1
+Subject_13,Badetag,_mp_1.5,0
+Subject_13,Badetag,_mp_2.0,0
+Subject_13,Bewirken,_mp_1.0,0
+Subject_13,Bewirken,_mp_1.5,0
+Subject_13,Bewirken,_mp_2.0,0
+Subject_13,Butterweich,_mp_1.0,1
+Subject_13,Butterweich,_mp_1.5,0
+Subject_13,Butterweich,_mp_2.0,1
+Subject_13,Giraffe,_mp_1.0,0
+Subject_13,Giraffe,_mp_1.5,1
+Subject_13,Giraffe,_mp_2.0,1
+Subject_13,Kakadu,_mp_1.0,1
+Subject_13,Kakadu,_mp_1.5,1
+Subject_13,Kakadu,_mp_2.0,1
+Subject_13,Karotte,_mp_1.0,0
+Subject_13,Karotte,_mp_1.5,0
+Subject_13,Karotte,_mp_2.0,1
+Subject_13,Kassette,_mp_1.0,0
+Subject_13,Kassette,_mp_1.5,0
+Subject_13,Kassette,_mp_2.0,0
+Subject_13,Musiker,_mp_1.0,0
+Subject_13,Musiker,_mp_1.5,0
+Subject_13,Musiker,_mp_2.0,1
+Subject_13,Vergessen,_mp_1.0,1
+Subject_13,Vergessen,_mp_1.5,0
+Subject_13,Vergessen,_mp_2.0,0
+Subject_13,Zigarre,_mp_1.0,0
+Subject_13,Zigarre,_mp_1.5,0
+Subject_13,Zigarre,_mp_2.0,1
+Subject_13,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_13,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_13,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_13,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_13,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_13,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_13,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_13,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_13,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_13,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_13,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_13,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_13,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_13,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_13,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_13,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_13,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_13,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_13,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_13,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_13,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_13,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_13,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_13,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_13,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_13,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_13,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_13,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_13,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_13,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_14,Badetag,_mp_1.0,0
+Subject_14,Badetag,_mp_1.5,1
+Subject_14,Badetag,_mp_2.0,1
+Subject_14,Bewirken,_mp_1.0,1
+Subject_14,Bewirken,_mp_1.5,1
+Subject_14,Bewirken,_mp_2.0,0
+Subject_14,Butterweich,_mp_1.0,0
+Subject_14,Butterweich,_mp_1.5,0
+Subject_14,Butterweich,_mp_2.0,0
+Subject_14,Giraffe,_mp_1.0,1
+Subject_14,Giraffe,_mp_1.5,1
+Subject_14,Giraffe,_mp_2.0,1
+Subject_14,Kakadu,_mp_1.0,1
+Subject_14,Kakadu,_mp_1.5,1
+Subject_14,Kakadu,_mp_2.0,1
+Subject_14,Karotte,_mp_1.0,1
+Subject_14,Karotte,_mp_1.5,1
+Subject_14,Karotte,_mp_2.0,0
+Subject_14,Kassette,_mp_1.0,1
+Subject_14,Kassette,_mp_1.5,1
+Subject_14,Kassette,_mp_2.0,0
+Subject_14,Musiker,_mp_1.0,1
+Subject_14,Musiker,_mp_1.5,0
+Subject_14,Musiker,_mp_2.0,0
+Subject_14,Vergessen,_mp_1.0,1
+Subject_14,Vergessen,_mp_1.5,0
+Subject_14,Vergessen,_mp_2.0,1
+Subject_14,Zigarre,_mp_1.0,0
+Subject_14,Zigarre,_mp_1.5,1
+Subject_14,Zigarre,_mp_2.0,0
+Subject_14,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_14,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_14,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_14,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_14,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_14,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_14,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_14,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_14,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_14,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_14,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_14,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_14,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_14,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_14,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_14,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_14,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_14,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_14,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_14,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_14,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_14,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_14,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_14,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_14,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_14,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_14,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_14,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_14,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_14,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_15,Badetag,_mp_1.0,1
+Subject_15,Badetag,_mp_1.5,1
+Subject_15,Badetag,_mp_2.0,1
+Subject_15,Bewirken,_mp_1.0,0
+Subject_15,Bewirken,_mp_1.5,0
+Subject_15,Bewirken,_mp_2.0,0
+Subject_15,Butterweich,_mp_1.0,0
+Subject_15,Butterweich,_mp_1.5,0
+Subject_15,Butterweich,_mp_2.0,1
+Subject_15,Giraffe,_mp_1.0,1
+Subject_15,Giraffe,_mp_1.5,1
+Subject_15,Giraffe,_mp_2.0,0
+Subject_15,Kakadu,_mp_1.0,1
+Subject_15,Kakadu,_mp_1.5,0
+Subject_15,Kakadu,_mp_2.0,0
+Subject_15,Karotte,_mp_1.0,0
+Subject_15,Karotte,_mp_1.5,1
+Subject_15,Karotte,_mp_2.0,0
+Subject_15,Kassette,_mp_1.0,1
+Subject_15,Kassette,_mp_1.5,0
+Subject_15,Kassette,_mp_2.0,1
+Subject_15,Musiker,_mp_1.0,0
+Subject_15,Musiker,_mp_1.5,0
+Subject_15,Musiker,_mp_2.0,0
+Subject_15,Vergessen,_mp_1.0,1
+Subject_15,Vergessen,_mp_1.5,0
+Subject_15,Vergessen,_mp_2.0,1
+Subject_15,Zigarre,_mp_1.0,0
+Subject_15,Zigarre,_mp_1.5,1
+Subject_15,Zigarre,_mp_2.0,0
+Subject_15,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_15,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_15,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_15,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_15,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_15,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_15,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_15,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_15,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_15,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_15,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_15,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_15,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_15,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_15,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_15,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_15,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_15,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_15,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_15,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_15,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_15,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_15,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_15,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_15,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_15,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_15,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_15,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_15,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_15,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_16,Badetag,_mp_1.0,1
+Subject_16,Badetag,_mp_1.5,1
+Subject_16,Badetag,_mp_2.0,1
+Subject_16,Bewirken,_mp_1.0,1
+Subject_16,Bewirken,_mp_1.5,0
+Subject_16,Bewirken,_mp_2.0,1
+Subject_16,Butterweich,_mp_1.0,1
+Subject_16,Butterweich,_mp_1.5,1
+Subject_16,Butterweich,_mp_2.0,1
+Subject_16,Giraffe,_mp_1.0,0
+Subject_16,Giraffe,_mp_1.5,1
+Subject_16,Giraffe,_mp_2.0,1
+Subject_16,Kakadu,_mp_1.0,0
+Subject_16,Kakadu,_mp_1.5,0
+Subject_16,Kakadu,_mp_2.0,1
+Subject_16,Karotte,_mp_1.0,1
+Subject_16,Karotte,_mp_1.5,1
+Subject_16,Karotte,_mp_2.0,1
+Subject_16,Kassette,_mp_1.0,0
+Subject_16,Kassette,_mp_1.5,1
+Subject_16,Kassette,_mp_2.0,0
+Subject_16,Musiker,_mp_1.0,1
+Subject_16,Musiker,_mp_1.5,0
+Subject_16,Musiker,_mp_2.0,1
+Subject_16,Vergessen,_mp_1.0,1
+Subject_16,Vergessen,_mp_1.5,1
+Subject_16,Vergessen,_mp_2.0,1
+Subject_16,Zigarre,_mp_1.0,0
+Subject_16,Zigarre,_mp_1.5,1
+Subject_16,Zigarre,_mp_2.0,0
+Subject_16,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_16,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_16,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_16,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_16,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_16,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_16,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_16,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_16,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_16,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_16,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_16,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_16,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_16,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_16,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_16,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_16,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_16,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_16,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_16,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_16,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_16,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_16,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_16,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_16,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_16,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_16,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_16,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_16,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_16,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_17,Badetag,_mp_1.0,1
+Subject_17,Badetag,_mp_1.5,1
+Subject_17,Badetag,_mp_2.0,1
+Subject_17,Bewirken,_mp_1.0,1
+Subject_17,Bewirken,_mp_1.5,0
+Subject_17,Bewirken,_mp_2.0,1
+Subject_17,Butterweich,_mp_1.0,1
+Subject_17,Butterweich,_mp_1.5,0
+Subject_17,Butterweich,_mp_2.0,1
+Subject_17,Giraffe,_mp_1.0,0
+Subject_17,Giraffe,_mp_1.5,1
+Subject_17,Giraffe,_mp_2.0,1
+Subject_17,Kakadu,_mp_1.0,1
+Subject_17,Kakadu,_mp_1.5,0
+Subject_17,Kakadu,_mp_2.0,1
+Subject_17,Karotte,_mp_1.0,1
+Subject_17,Karotte,_mp_1.5,1
+Subject_17,Karotte,_mp_2.0,0
+Subject_17,Kassette,_mp_1.0,0
+Subject_17,Kassette,_mp_1.5,1
+Subject_17,Kassette,_mp_2.0,1
+Subject_17,Musiker,_mp_1.0,0
+Subject_17,Musiker,_mp_1.5,0
+Subject_17,Musiker,_mp_2.0,1
+Subject_17,Vergessen,_mp_1.0,0
+Subject_17,Vergessen,_mp_1.5,0
+Subject_17,Vergessen,_mp_2.0,1
+Subject_17,Zigarre,_mp_1.0,1
+Subject_17,Zigarre,_mp_1.5,1
+Subject_17,Zigarre,_mp_2.0,0
+Subject_17,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_17,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_17,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_17,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_17,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_17,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_17,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_17,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_17,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_17,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_17,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_17,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_17,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_17,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_17,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_17,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_17,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_17,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_17,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_17,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_17,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_17,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_17,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_17,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_17,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_17,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_17,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_17,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_17,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_17,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_18,Badetag,_mp_1.0,1
+Subject_18,Badetag,_mp_1.5,0
+Subject_18,Badetag,_mp_2.0,0
+Subject_18,Bewirken,_mp_1.0,1
+Subject_18,Bewirken,_mp_1.5,0
+Subject_18,Bewirken,_mp_2.0,0
+Subject_18,Butterweich,_mp_1.0,0
+Subject_18,Butterweich,_mp_1.5,0
+Subject_18,Butterweich,_mp_2.0,1
+Subject_18,Giraffe,_mp_1.0,0
+Subject_18,Giraffe,_mp_1.5,0
+Subject_18,Giraffe,_mp_2.0,0
+Subject_18,Kakadu,_mp_1.0,1
+Subject_18,Kakadu,_mp_1.5,1
+Subject_18,Kakadu,_mp_2.0,1
+Subject_18,Karotte,_mp_1.0,1
+Subject_18,Karotte,_mp_1.5,1
+Subject_18,Karotte,_mp_2.0,0
+Subject_18,Kassette,_mp_1.0,0
+Subject_18,Kassette,_mp_1.5,1
+Subject_18,Kassette,_mp_2.0,1
+Subject_18,Musiker,_mp_1.0,0
+Subject_18,Musiker,_mp_1.5,0
+Subject_18,Musiker,_mp_2.0,1
+Subject_18,Vergessen,_mp_1.0,0
+Subject_18,Vergessen,_mp_1.5,1
+Subject_18,Vergessen,_mp_2.0,1
+Subject_18,Zigarre,_mp_1.0,0
+Subject_18,Zigarre,_mp_1.5,0
+Subject_18,Zigarre,_mp_2.0,0
+Subject_18,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_18,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_18,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_18,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_18,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_18,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_18,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_18,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_18,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_18,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_18,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_18,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_18,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_18,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_18,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_18,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_18,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_18,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_18,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_18,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_18,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_18,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_18,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_18,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_18,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_18,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_18,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_18,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_18,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_18,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_19,Badetag,_mp_1.0,1
+Subject_19,Badetag,_mp_1.5,1
+Subject_19,Badetag,_mp_2.0,0
+Subject_19,Bewirken,_mp_1.0,0
+Subject_19,Bewirken,_mp_1.5,1
+Subject_19,Bewirken,_mp_2.0,1
+Subject_19,Butterweich,_mp_1.0,0
+Subject_19,Butterweich,_mp_1.5,0
+Subject_19,Butterweich,_mp_2.0,1
+Subject_19,Giraffe,_mp_1.0,1
+Subject_19,Giraffe,_mp_1.5,1
+Subject_19,Giraffe,_mp_2.0,1
+Subject_19,Kakadu,_mp_1.0,0
+Subject_19,Kakadu,_mp_1.5,0
+Subject_19,Kakadu,_mp_2.0,1
+Subject_19,Karotte,_mp_1.0,0
+Subject_19,Karotte,_mp_1.5,0
+Subject_19,Karotte,_mp_2.0,1
+Subject_19,Kassette,_mp_1.0,1
+Subject_19,Kassette,_mp_1.5,1
+Subject_19,Kassette,_mp_2.0,1
+Subject_19,Musiker,_mp_1.0,0
+Subject_19,Musiker,_mp_1.5,1
+Subject_19,Musiker,_mp_2.0,1
+Subject_19,Vergessen,_mp_1.0,1
+Subject_19,Vergessen,_mp_1.5,1
+Subject_19,Vergessen,_mp_2.0,1
+Subject_19,Zigarre,_mp_1.0,0
+Subject_19,Zigarre,_mp_1.5,1
+Subject_19,Zigarre,_mp_2.0,0
+Subject_19,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_19,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_19,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_19,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_19,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_19,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_19,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_19,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_19,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_19,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_19,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_19,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_19,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_19,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_19,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_19,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_19,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_19,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_19,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_19,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_19,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_19,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_19,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_19,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_19,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_19,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_19,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_19,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_19,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_19,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_2,Badetag,_mp_1.0,0
+Subject_2,Badetag,_mp_1.5,0
+Subject_2,Badetag,_mp_2.0,0
+Subject_2,Bewirken,_mp_1.0,0
+Subject_2,Bewirken,_mp_1.5,0
+Subject_2,Bewirken,_mp_2.0,1
+Subject_2,Butterweich,_mp_1.0,0
+Subject_2,Butterweich,_mp_1.5,0
+Subject_2,Butterweich,_mp_2.0,0
+Subject_2,Giraffe,_mp_1.0,1
+Subject_2,Giraffe,_mp_1.5,1
+Subject_2,Giraffe,_mp_2.0,0
+Subject_2,Kakadu,_mp_1.0,1
+Subject_2,Kakadu,_mp_1.5,1
+Subject_2,Kakadu,_mp_2.0,1
+Subject_2,Karotte,_mp_1.0,0
+Subject_2,Karotte,_mp_1.5,1
+Subject_2,Karotte,_mp_2.0,0
+Subject_2,Kassette,_mp_1.0,0
+Subject_2,Kassette,_mp_1.5,1
+Subject_2,Kassette,_mp_2.0,1
+Subject_2,Musiker,_mp_1.0,0
+Subject_2,Musiker,_mp_1.5,0
+Subject_2,Musiker,_mp_2.0,0
+Subject_2,Vergessen,_mp_1.0,0
+Subject_2,Vergessen,_mp_1.5,0
+Subject_2,Vergessen,_mp_2.0,1
+Subject_2,Zigarre,_mp_1.0,1
+Subject_2,Zigarre,_mp_1.5,1
+Subject_2,Zigarre,_mp_2.0,0
+Subject_2,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_2,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_2,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_2,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_2,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_2,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_2,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_2,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_2,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_2,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_2,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_2,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_2,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_2,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_2,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_2,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_2,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_2,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_2,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_2,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_2,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_2,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_2,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_2,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_2,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_2,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_2,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_2,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_2,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_2,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_20,Badetag,_mp_1.0,1
+Subject_20,Badetag,_mp_1.5,1
+Subject_20,Badetag,_mp_2.0,1
+Subject_20,Bewirken,_mp_1.0,1
+Subject_20,Bewirken,_mp_1.5,0
+Subject_20,Bewirken,_mp_2.0,0
+Subject_20,Butterweich,_mp_1.0,1
+Subject_20,Butterweich,_mp_1.5,0
+Subject_20,Butterweich,_mp_2.0,0
+Subject_20,Giraffe,_mp_1.0,0
+Subject_20,Giraffe,_mp_1.5,1
+Subject_20,Giraffe,_mp_2.0,1
+Subject_20,Kakadu,_mp_1.0,1
+Subject_20,Kakadu,_mp_1.5,1
+Subject_20,Kakadu,_mp_2.0,1
+Subject_20,Karotte,_mp_1.0,1
+Subject_20,Karotte,_mp_1.5,0
+Subject_20,Karotte,_mp_2.0,1
+Subject_20,Kassette,_mp_1.0,1
+Subject_20,Kassette,_mp_1.5,1
+Subject_20,Kassette,_mp_2.0,1
+Subject_20,Musiker,_mp_1.0,0
+Subject_20,Musiker,_mp_1.5,0
+Subject_20,Musiker,_mp_2.0,0
+Subject_20,Vergessen,_mp_1.0,0
+Subject_20,Vergessen,_mp_1.5,0
+Subject_20,Vergessen,_mp_2.0,0
+Subject_20,Zigarre,_mp_1.0,1
+Subject_20,Zigarre,_mp_1.5,1
+Subject_20,Zigarre,_mp_2.0,1
+Subject_20,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_20,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_20,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_20,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_20,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_20,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_20,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_20,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_20,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_20,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_20,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_20,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_20,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_20,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_20,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_20,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_20,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_20,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_20,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_20,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_20,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_20,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_20,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_20,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_20,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_20,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_20,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_20,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_20,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_20,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_21,Badetag,_mp_1.0,0
+Subject_21,Badetag,_mp_1.5,1
+Subject_21,Badetag,_mp_2.0,0
+Subject_21,Bewirken,_mp_1.0,0
+Subject_21,Bewirken,_mp_1.5,1
+Subject_21,Bewirken,_mp_2.0,1
+Subject_21,Butterweich,_mp_1.0,1
+Subject_21,Butterweich,_mp_1.5,1
+Subject_21,Butterweich,_mp_2.0,0
+Subject_21,Giraffe,_mp_1.0,0
+Subject_21,Giraffe,_mp_1.5,1
+Subject_21,Giraffe,_mp_2.0,0
+Subject_21,Kakadu,_mp_1.0,0
+Subject_21,Kakadu,_mp_1.5,0
+Subject_21,Kakadu,_mp_2.0,0
+Subject_21,Karotte,_mp_1.0,1
+Subject_21,Karotte,_mp_1.5,0
+Subject_21,Karotte,_mp_2.0,0
+Subject_21,Kassette,_mp_1.0,1
+Subject_21,Kassette,_mp_1.5,1
+Subject_21,Kassette,_mp_2.0,0
+Subject_21,Musiker,_mp_1.0,0
+Subject_21,Musiker,_mp_1.5,1
+Subject_21,Musiker,_mp_2.0,0
+Subject_21,Vergessen,_mp_1.0,1
+Subject_21,Vergessen,_mp_1.5,1
+Subject_21,Vergessen,_mp_2.0,0
+Subject_21,Zigarre,_mp_1.0,1
+Subject_21,Zigarre,_mp_1.5,0
+Subject_21,Zigarre,_mp_2.0,1
+Subject_21,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_21,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_21,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_21,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_21,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_21,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_21,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_21,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_21,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_21,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_21,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_21,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_21,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_21,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_21,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_21,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_21,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_21,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_21,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_21,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_21,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_21,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_21,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_21,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_21,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_21,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_21,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_21,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_21,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_21,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_22,Badetag,_mp_1.0,1
+Subject_22,Badetag,_mp_1.5,0
+Subject_22,Badetag,_mp_2.0,0
+Subject_22,Bewirken,_mp_1.0,0
+Subject_22,Bewirken,_mp_1.5,1
+Subject_22,Bewirken,_mp_2.0,0
+Subject_22,Butterweich,_mp_1.0,1
+Subject_22,Butterweich,_mp_1.5,1
+Subject_22,Butterweich,_mp_2.0,1
+Subject_22,Giraffe,_mp_1.0,1
+Subject_22,Giraffe,_mp_1.5,1
+Subject_22,Giraffe,_mp_2.0,1
+Subject_22,Kakadu,_mp_1.0,1
+Subject_22,Kakadu,_mp_1.5,0
+Subject_22,Kakadu,_mp_2.0,0
+Subject_22,Karotte,_mp_1.0,1
+Subject_22,Karotte,_mp_1.5,1
+Subject_22,Karotte,_mp_2.0,0
+Subject_22,Kassette,_mp_1.0,0
+Subject_22,Kassette,_mp_1.5,0
+Subject_22,Kassette,_mp_2.0,0
+Subject_22,Musiker,_mp_1.0,0
+Subject_22,Musiker,_mp_1.5,1
+Subject_22,Musiker,_mp_2.0,0
+Subject_22,Vergessen,_mp_1.0,0
+Subject_22,Vergessen,_mp_1.5,0
+Subject_22,Vergessen,_mp_2.0,1
+Subject_22,Zigarre,_mp_1.0,0
+Subject_22,Zigarre,_mp_1.5,0
+Subject_22,Zigarre,_mp_2.0,0
+Subject_22,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_22,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_22,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_22,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_22,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_22,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_22,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_22,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_22,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_22,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_22,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_22,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_22,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_22,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_22,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_22,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_22,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_22,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_22,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_22,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_22,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_22,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_22,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_22,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_22,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_22,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_22,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_22,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_22,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_22,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_23,Badetag,_mp_1.0,0
+Subject_23,Badetag,_mp_1.5,0
+Subject_23,Badetag,_mp_2.0,1
+Subject_23,Bewirken,_mp_1.0,1
+Subject_23,Bewirken,_mp_1.5,1
+Subject_23,Bewirken,_mp_2.0,0
+Subject_23,Butterweich,_mp_1.0,1
+Subject_23,Butterweich,_mp_1.5,0
+Subject_23,Butterweich,_mp_2.0,0
+Subject_23,Giraffe,_mp_1.0,1
+Subject_23,Giraffe,_mp_1.5,0
+Subject_23,Giraffe,_mp_2.0,0
+Subject_23,Kakadu,_mp_1.0,0
+Subject_23,Kakadu,_mp_1.5,0
+Subject_23,Kakadu,_mp_2.0,1
+Subject_23,Karotte,_mp_1.0,0
+Subject_23,Karotte,_mp_1.5,0
+Subject_23,Karotte,_mp_2.0,0
+Subject_23,Kassette,_mp_1.0,1
+Subject_23,Kassette,_mp_1.5,0
+Subject_23,Kassette,_mp_2.0,1
+Subject_23,Musiker,_mp_1.0,1
+Subject_23,Musiker,_mp_1.5,0
+Subject_23,Musiker,_mp_2.0,1
+Subject_23,Vergessen,_mp_1.0,1
+Subject_23,Vergessen,_mp_1.5,1
+Subject_23,Vergessen,_mp_2.0,0
+Subject_23,Zigarre,_mp_1.0,0
+Subject_23,Zigarre,_mp_1.5,1
+Subject_23,Zigarre,_mp_2.0,1
+Subject_23,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_23,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_23,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_23,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_23,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_23,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_23,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_23,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_23,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_23,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_23,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_23,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_23,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_23,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_23,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_23,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_23,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_23,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_23,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_23,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_23,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_23,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_23,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_23,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_23,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_23,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_23,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_23,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_23,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_23,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_24,Badetag,_mp_1.0,1
+Subject_24,Badetag,_mp_1.5,0
+Subject_24,Badetag,_mp_2.0,0
+Subject_24,Bewirken,_mp_1.0,1
+Subject_24,Bewirken,_mp_1.5,0
+Subject_24,Bewirken,_mp_2.0,1
+Subject_24,Butterweich,_mp_1.0,1
+Subject_24,Butterweich,_mp_1.5,1
+Subject_24,Butterweich,_mp_2.0,1
+Subject_24,Giraffe,_mp_1.0,0
+Subject_24,Giraffe,_mp_1.5,0
+Subject_24,Giraffe,_mp_2.0,1
+Subject_24,Kakadu,_mp_1.0,0
+Subject_24,Kakadu,_mp_1.5,1
+Subject_24,Kakadu,_mp_2.0,0
+Subject_24,Karotte,_mp_1.0,0
+Subject_24,Karotte,_mp_1.5,0
+Subject_24,Karotte,_mp_2.0,1
+Subject_24,Kassette,_mp_1.0,1
+Subject_24,Kassette,_mp_1.5,1
+Subject_24,Kassette,_mp_2.0,1
+Subject_24,Musiker,_mp_1.0,1
+Subject_24,Musiker,_mp_1.5,1
+Subject_24,Musiker,_mp_2.0,0
+Subject_24,Vergessen,_mp_1.0,0
+Subject_24,Vergessen,_mp_1.5,0
+Subject_24,Vergessen,_mp_2.0,0
+Subject_24,Zigarre,_mp_1.0,1
+Subject_24,Zigarre,_mp_1.5,0
+Subject_24,Zigarre,_mp_2.0,0
+Subject_24,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_24,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_24,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_24,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_24,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_24,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_24,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_24,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_24,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_24,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_24,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_24,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_24,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_24,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_24,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_24,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_24,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_24,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_24,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_24,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_24,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_24,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_24,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_24,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_24,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_24,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_24,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_24,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_24,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_24,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_25,Badetag,_mp_1.0,0
+Subject_25,Badetag,_mp_1.5,0
+Subject_25,Badetag,_mp_2.0,1
+Subject_25,Bewirken,_mp_1.0,1
+Subject_25,Bewirken,_mp_1.5,1
+Subject_25,Bewirken,_mp_2.0,0
+Subject_25,Butterweich,_mp_1.0,0
+Subject_25,Butterweich,_mp_1.5,1
+Subject_25,Butterweich,_mp_2.0,0
+Subject_25,Giraffe,_mp_1.0,0
+Subject_25,Giraffe,_mp_1.5,1
+Subject_25,Giraffe,_mp_2.0,1
+Subject_25,Kakadu,_mp_1.0,0
+Subject_25,Kakadu,_mp_1.5,1
+Subject_25,Kakadu,_mp_2.0,0
+Subject_25,Karotte,_mp_1.0,0
+Subject_25,Karotte,_mp_1.5,0
+Subject_25,Karotte,_mp_2.0,0
+Subject_25,Kassette,_mp_1.0,1
+Subject_25,Kassette,_mp_1.5,1
+Subject_25,Kassette,_mp_2.0,1
+Subject_25,Musiker,_mp_1.0,0
+Subject_25,Musiker,_mp_1.5,0
+Subject_25,Musiker,_mp_2.0,1
+Subject_25,Vergessen,_mp_1.0,0
+Subject_25,Vergessen,_mp_1.5,1
+Subject_25,Vergessen,_mp_2.0,1
+Subject_25,Zigarre,_mp_1.0,0
+Subject_25,Zigarre,_mp_1.5,1
+Subject_25,Zigarre,_mp_2.0,1
+Subject_25,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_25,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_25,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_25,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_25,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_25,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_25,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_25,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_25,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_25,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_25,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_25,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_25,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_25,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_25,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_25,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_25,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_25,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_25,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_25,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_25,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_25,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_25,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_25,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_25,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_25,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_25,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_25,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_25,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_25,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_26,Badetag,_mp_1.0,0
+Subject_26,Badetag,_mp_1.5,0
+Subject_26,Badetag,_mp_2.0,0
+Subject_26,Bewirken,_mp_1.0,1
+Subject_26,Bewirken,_mp_1.5,1
+Subject_26,Bewirken,_mp_2.0,1
+Subject_26,Butterweich,_mp_1.0,0
+Subject_26,Butterweich,_mp_1.5,0
+Subject_26,Butterweich,_mp_2.0,1
+Subject_26,Giraffe,_mp_1.0,0
+Subject_26,Giraffe,_mp_1.5,0
+Subject_26,Giraffe,_mp_2.0,0
+Subject_26,Kakadu,_mp_1.0,1
+Subject_26,Kakadu,_mp_1.5,1
+Subject_26,Kakadu,_mp_2.0,1
+Subject_26,Karotte,_mp_1.0,1
+Subject_26,Karotte,_mp_1.5,0
+Subject_26,Karotte,_mp_2.0,1
+Subject_26,Kassette,_mp_1.0,1
+Subject_26,Kassette,_mp_1.5,1
+Subject_26,Kassette,_mp_2.0,0
+Subject_26,Musiker,_mp_1.0,0
+Subject_26,Musiker,_mp_1.5,1
+Subject_26,Musiker,_mp_2.0,0
+Subject_26,Vergessen,_mp_1.0,1
+Subject_26,Vergessen,_mp_1.5,1
+Subject_26,Vergessen,_mp_2.0,1
+Subject_26,Zigarre,_mp_1.0,0
+Subject_26,Zigarre,_mp_1.5,1
+Subject_26,Zigarre,_mp_2.0,0
+Subject_26,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_26,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_26,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_26,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_26,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_26,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_26,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_26,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_26,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_26,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_26,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_26,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_26,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_26,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_26,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_26,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_26,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_26,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_26,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_26,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_26,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_26,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_26,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_26,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_26,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_26,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_26,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_26,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_26,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_26,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_27,Badetag,_mp_1.0,1
+Subject_27,Badetag,_mp_1.5,1
+Subject_27,Badetag,_mp_2.0,1
+Subject_27,Bewirken,_mp_1.0,1
+Subject_27,Bewirken,_mp_1.5,0
+Subject_27,Bewirken,_mp_2.0,1
+Subject_27,Butterweich,_mp_1.0,1
+Subject_27,Butterweich,_mp_1.5,1
+Subject_27,Butterweich,_mp_2.0,1
+Subject_27,Giraffe,_mp_1.0,0
+Subject_27,Giraffe,_mp_1.5,1
+Subject_27,Giraffe,_mp_2.0,0
+Subject_27,Kakadu,_mp_1.0,0
+Subject_27,Kakadu,_mp_1.5,0
+Subject_27,Kakadu,_mp_2.0,1
+Subject_27,Karotte,_mp_1.0,0
+Subject_27,Karotte,_mp_1.5,0
+Subject_27,Karotte,_mp_2.0,1
+Subject_27,Kassette,_mp_1.0,1
+Subject_27,Kassette,_mp_1.5,1
+Subject_27,Kassette,_mp_2.0,1
+Subject_27,Musiker,_mp_1.0,1
+Subject_27,Musiker,_mp_1.5,1
+Subject_27,Musiker,_mp_2.0,1
+Subject_27,Vergessen,_mp_1.0,1
+Subject_27,Vergessen,_mp_1.5,1
+Subject_27,Vergessen,_mp_2.0,1
+Subject_27,Zigarre,_mp_1.0,0
+Subject_27,Zigarre,_mp_1.5,0
+Subject_27,Zigarre,_mp_2.0,0
+Subject_27,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_27,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_27,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_27,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_27,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_27,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_27,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_27,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_27,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_27,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_27,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_27,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_27,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_27,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_27,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_27,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_27,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_27,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_27,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_27,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_27,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_27,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_27,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_27,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_27,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_27,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_27,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_27,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_27,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_27,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_28,Badetag,_mp_1.0,1
+Subject_28,Badetag,_mp_1.5,1
+Subject_28,Badetag,_mp_2.0,0
+Subject_28,Bewirken,_mp_1.0,0
+Subject_28,Bewirken,_mp_1.5,1
+Subject_28,Bewirken,_mp_2.0,1
+Subject_28,Butterweich,_mp_1.0,1
+Subject_28,Butterweich,_mp_1.5,0
+Subject_28,Butterweich,_mp_2.0,1
+Subject_28,Giraffe,_mp_1.0,1
+Subject_28,Giraffe,_mp_1.5,1
+Subject_28,Giraffe,_mp_2.0,0
+Subject_28,Kakadu,_mp_1.0,1
+Subject_28,Kakadu,_mp_1.5,0
+Subject_28,Kakadu,_mp_2.0,1
+Subject_28,Karotte,_mp_1.0,1
+Subject_28,Karotte,_mp_1.5,0
+Subject_28,Karotte,_mp_2.0,0
+Subject_28,Kassette,_mp_1.0,1
+Subject_28,Kassette,_mp_1.5,0
+Subject_28,Kassette,_mp_2.0,1
+Subject_28,Musiker,_mp_1.0,0
+Subject_28,Musiker,_mp_1.5,1
+Subject_28,Musiker,_mp_2.0,1
+Subject_28,Vergessen,_mp_1.0,1
+Subject_28,Vergessen,_mp_1.5,0
+Subject_28,Vergessen,_mp_2.0,1
+Subject_28,Zigarre,_mp_1.0,0
+Subject_28,Zigarre,_mp_1.5,1
+Subject_28,Zigarre,_mp_2.0,0
+Subject_28,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_28,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_28,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_28,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_28,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_28,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_28,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_28,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_28,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_28,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_28,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_28,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_28,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_28,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_28,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_28,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_28,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_28,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_28,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_28,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_28,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_28,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_28,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_28,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_28,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_28,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_28,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_28,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_28,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_28,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_29,Badetag,_mp_1.0,1
+Subject_29,Badetag,_mp_1.5,0
+Subject_29,Badetag,_mp_2.0,0
+Subject_29,Bewirken,_mp_1.0,1
+Subject_29,Bewirken,_mp_1.5,1
+Subject_29,Bewirken,_mp_2.0,1
+Subject_29,Butterweich,_mp_1.0,1
+Subject_29,Butterweich,_mp_1.5,1
+Subject_29,Butterweich,_mp_2.0,0
+Subject_29,Giraffe,_mp_1.0,1
+Subject_29,Giraffe,_mp_1.5,1
+Subject_29,Giraffe,_mp_2.0,1
+Subject_29,Kakadu,_mp_1.0,0
+Subject_29,Kakadu,_mp_1.5,1
+Subject_29,Kakadu,_mp_2.0,0
+Subject_29,Karotte,_mp_1.0,1
+Subject_29,Karotte,_mp_1.5,0
+Subject_29,Karotte,_mp_2.0,1
+Subject_29,Kassette,_mp_1.0,1
+Subject_29,Kassette,_mp_1.5,1
+Subject_29,Kassette,_mp_2.0,1
+Subject_29,Musiker,_mp_1.0,0
+Subject_29,Musiker,_mp_1.5,1
+Subject_29,Musiker,_mp_2.0,0
+Subject_29,Vergessen,_mp_1.0,1
+Subject_29,Vergessen,_mp_1.5,1
+Subject_29,Vergessen,_mp_2.0,0
+Subject_29,Zigarre,_mp_1.0,1
+Subject_29,Zigarre,_mp_1.5,0
+Subject_29,Zigarre,_mp_2.0,1
+Subject_29,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_29,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_29,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_29,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_29,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_29,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_29,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_29,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_29,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_29,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_29,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_29,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_29,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_29,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_29,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_29,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_29,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_29,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_29,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_29,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_29,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_29,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_29,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_29,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_29,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_29,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_29,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_29,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_29,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_29,Benno gefaellt die orange Vase,_mp_2.0,1
+Subject_3,Badetag,_mp_1.0,1
+Subject_3,Badetag,_mp_1.5,1
+Subject_3,Badetag,_mp_2.0,0
+Subject_3,Bewirken,_mp_1.0,1
+Subject_3,Bewirken,_mp_1.5,1
+Subject_3,Bewirken,_mp_2.0,1
+Subject_3,Butterweich,_mp_1.0,1
+Subject_3,Butterweich,_mp_1.5,1
+Subject_3,Butterweich,_mp_2.0,1
+Subject_3,Giraffe,_mp_1.0,1
+Subject_3,Giraffe,_mp_1.5,0
+Subject_3,Giraffe,_mp_2.0,0
+Subject_3,Kakadu,_mp_1.0,0
+Subject_3,Kakadu,_mp_1.5,1
+Subject_3,Kakadu,_mp_2.0,0
+Subject_3,Karotte,_mp_1.0,1
+Subject_3,Karotte,_mp_1.5,1
+Subject_3,Karotte,_mp_2.0,1
+Subject_3,Kassette,_mp_1.0,1
+Subject_3,Kassette,_mp_1.5,0
+Subject_3,Kassette,_mp_2.0,1
+Subject_3,Musiker,_mp_1.0,0
+Subject_3,Musiker,_mp_1.5,0
+Subject_3,Musiker,_mp_2.0,0
+Subject_3,Vergessen,_mp_1.0,0
+Subject_3,Vergessen,_mp_1.5,1
+Subject_3,Vergessen,_mp_2.0,1
+Subject_3,Zigarre,_mp_1.0,1
+Subject_3,Zigarre,_mp_1.5,1
+Subject_3,Zigarre,_mp_2.0,1
+Subject_3,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_3,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_3,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_3,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_3,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_3,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_3,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_3,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_3,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_3,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_3,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_3,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_3,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_3,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_3,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_3,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_3,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_3,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_3,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_3,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_3,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_3,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_3,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_3,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_3,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_3,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_3,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_3,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_3,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_3,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_30,Badetag,_mp_1.0,0
+Subject_30,Badetag,_mp_1.5,0
+Subject_30,Badetag,_mp_2.0,0
+Subject_30,Bewirken,_mp_1.0,1
+Subject_30,Bewirken,_mp_1.5,1
+Subject_30,Bewirken,_mp_2.0,1
+Subject_30,Butterweich,_mp_1.0,1
+Subject_30,Butterweich,_mp_1.5,1
+Subject_30,Butterweich,_mp_2.0,1
+Subject_30,Giraffe,_mp_1.0,1
+Subject_30,Giraffe,_mp_1.5,1
+Subject_30,Giraffe,_mp_2.0,1
+Subject_30,Kakadu,_mp_1.0,1
+Subject_30,Kakadu,_mp_1.5,0
+Subject_30,Kakadu,_mp_2.0,0
+Subject_30,Karotte,_mp_1.0,1
+Subject_30,Karotte,_mp_1.5,1
+Subject_30,Karotte,_mp_2.0,0
+Subject_30,Kassette,_mp_1.0,0
+Subject_30,Kassette,_mp_1.5,1
+Subject_30,Kassette,_mp_2.0,1
+Subject_30,Musiker,_mp_1.0,1
+Subject_30,Musiker,_mp_1.5,1
+Subject_30,Musiker,_mp_2.0,0
+Subject_30,Vergessen,_mp_1.0,1
+Subject_30,Vergessen,_mp_1.5,0
+Subject_30,Vergessen,_mp_2.0,0
+Subject_30,Zigarre,_mp_1.0,1
+Subject_30,Zigarre,_mp_1.5,1
+Subject_30,Zigarre,_mp_2.0,0
+Subject_30,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_30,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_30,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_30,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_30,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_30,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_30,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_30,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_30,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_30,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_30,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_30,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_30,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_30,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_30,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_30,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_30,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_30,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_30,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_30,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_30,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_30,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_30,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_30,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_30,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_30,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_30,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_30,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_30,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_30,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_4,Badetag,_mp_1.0,0
+Subject_4,Badetag,_mp_1.5,0
+Subject_4,Badetag,_mp_2.0,1
+Subject_4,Bewirken,_mp_1.0,0
+Subject_4,Bewirken,_mp_1.5,0
+Subject_4,Bewirken,_mp_2.0,1
+Subject_4,Butterweich,_mp_1.0,1
+Subject_4,Butterweich,_mp_1.5,0
+Subject_4,Butterweich,_mp_2.0,0
+Subject_4,Giraffe,_mp_1.0,0
+Subject_4,Giraffe,_mp_1.5,1
+Subject_4,Giraffe,_mp_2.0,0
+Subject_4,Kakadu,_mp_1.0,0
+Subject_4,Kakadu,_mp_1.5,1
+Subject_4,Kakadu,_mp_2.0,1
+Subject_4,Karotte,_mp_1.0,0
+Subject_4,Karotte,_mp_1.5,1
+Subject_4,Karotte,_mp_2.0,0
+Subject_4,Kassette,_mp_1.0,0
+Subject_4,Kassette,_mp_1.5,1
+Subject_4,Kassette,_mp_2.0,1
+Subject_4,Musiker,_mp_1.0,0
+Subject_4,Musiker,_mp_1.5,1
+Subject_4,Musiker,_mp_2.0,1
+Subject_4,Vergessen,_mp_1.0,0
+Subject_4,Vergessen,_mp_1.5,0
+Subject_4,Vergessen,_mp_2.0,1
+Subject_4,Zigarre,_mp_1.0,0
+Subject_4,Zigarre,_mp_1.5,1
+Subject_4,Zigarre,_mp_2.0,0
+Subject_4,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_4,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_4,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_4,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_4,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_4,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_4,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_4,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_4,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_4,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_4,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_4,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_4,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_4,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_4,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_4,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_4,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_4,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_4,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_4,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,1
+Subject_4,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_4,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_4,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_4,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_4,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_4,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_4,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_4,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_4,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_4,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_5,Badetag,_mp_1.0,1
+Subject_5,Badetag,_mp_1.5,1
+Subject_5,Badetag,_mp_2.0,0
+Subject_5,Bewirken,_mp_1.0,1
+Subject_5,Bewirken,_mp_1.5,0
+Subject_5,Bewirken,_mp_2.0,0
+Subject_5,Butterweich,_mp_1.0,1
+Subject_5,Butterweich,_mp_1.5,1
+Subject_5,Butterweich,_mp_2.0,1
+Subject_5,Giraffe,_mp_1.0,0
+Subject_5,Giraffe,_mp_1.5,0
+Subject_5,Giraffe,_mp_2.0,1
+Subject_5,Kakadu,_mp_1.0,1
+Subject_5,Kakadu,_mp_1.5,0
+Subject_5,Kakadu,_mp_2.0,0
+Subject_5,Karotte,_mp_1.0,0
+Subject_5,Karotte,_mp_1.5,0
+Subject_5,Karotte,_mp_2.0,0
+Subject_5,Kassette,_mp_1.0,0
+Subject_5,Kassette,_mp_1.5,1
+Subject_5,Kassette,_mp_2.0,1
+Subject_5,Musiker,_mp_1.0,0
+Subject_5,Musiker,_mp_1.5,1
+Subject_5,Musiker,_mp_2.0,1
+Subject_5,Vergessen,_mp_1.0,1
+Subject_5,Vergessen,_mp_1.5,0
+Subject_5,Vergessen,_mp_2.0,1
+Subject_5,Zigarre,_mp_1.0,0
+Subject_5,Zigarre,_mp_1.5,1
+Subject_5,Zigarre,_mp_2.0,1
+Subject_5,Aber sehen will sie ihn doch,_mp_1.0,0
+Subject_5,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_5,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_5,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_5,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_5,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_5,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_5,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_5,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_5,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_5,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_5,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_5,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_5,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_5,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_5,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_5,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_5,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_5,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_5,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_5,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_5,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_5,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_5,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_5,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_5,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_5,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,0
+Subject_5,Benno gefaellt die orange Vase,_mp_1.0,0
+Subject_5,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_5,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_6,Badetag,_mp_1.0,0
+Subject_6,Badetag,_mp_1.5,1
+Subject_6,Badetag,_mp_2.0,1
+Subject_6,Bewirken,_mp_1.0,1
+Subject_6,Bewirken,_mp_1.5,1
+Subject_6,Bewirken,_mp_2.0,1
+Subject_6,Butterweich,_mp_1.0,1
+Subject_6,Butterweich,_mp_1.5,1
+Subject_6,Butterweich,_mp_2.0,0
+Subject_6,Giraffe,_mp_1.0,1
+Subject_6,Giraffe,_mp_1.5,0
+Subject_6,Giraffe,_mp_2.0,1
+Subject_6,Kakadu,_mp_1.0,1
+Subject_6,Kakadu,_mp_1.5,1
+Subject_6,Kakadu,_mp_2.0,0
+Subject_6,Karotte,_mp_1.0,0
+Subject_6,Karotte,_mp_1.5,0
+Subject_6,Karotte,_mp_2.0,1
+Subject_6,Kassette,_mp_1.0,0
+Subject_6,Kassette,_mp_1.5,1
+Subject_6,Kassette,_mp_2.0,1
+Subject_6,Musiker,_mp_1.0,1
+Subject_6,Musiker,_mp_1.5,0
+Subject_6,Musiker,_mp_2.0,0
+Subject_6,Vergessen,_mp_1.0,0
+Subject_6,Vergessen,_mp_1.5,1
+Subject_6,Vergessen,_mp_2.0,0
+Subject_6,Zigarre,_mp_1.0,1
+Subject_6,Zigarre,_mp_1.5,0
+Subject_6,Zigarre,_mp_2.0,1
+Subject_6,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_6,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_6,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_6,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_6,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_6,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_6,Chabos wissen wer der Babo ist,_mp_1.0,0
+Subject_6,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_6,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_6,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_6,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_6,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_6,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_6,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_6,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_6,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_6,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_6,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_6,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_6,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_6,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_6,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_6,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_6,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_6,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_6,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_6,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_6,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_6,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_6,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_7,Badetag,_mp_1.0,0
+Subject_7,Badetag,_mp_1.5,0
+Subject_7,Badetag,_mp_2.0,1
+Subject_7,Bewirken,_mp_1.0,1
+Subject_7,Bewirken,_mp_1.5,1
+Subject_7,Bewirken,_mp_2.0,1
+Subject_7,Butterweich,_mp_1.0,0
+Subject_7,Butterweich,_mp_1.5,0
+Subject_7,Butterweich,_mp_2.0,1
+Subject_7,Giraffe,_mp_1.0,1
+Subject_7,Giraffe,_mp_1.5,0
+Subject_7,Giraffe,_mp_2.0,0
+Subject_7,Kakadu,_mp_1.0,1
+Subject_7,Kakadu,_mp_1.5,0
+Subject_7,Kakadu,_mp_2.0,0
+Subject_7,Karotte,_mp_1.0,1
+Subject_7,Karotte,_mp_1.5,1
+Subject_7,Karotte,_mp_2.0,0
+Subject_7,Kassette,_mp_1.0,1
+Subject_7,Kassette,_mp_1.5,0
+Subject_7,Kassette,_mp_2.0,1
+Subject_7,Musiker,_mp_1.0,1
+Subject_7,Musiker,_mp_1.5,1
+Subject_7,Musiker,_mp_2.0,1
+Subject_7,Vergessen,_mp_1.0,0
+Subject_7,Vergessen,_mp_1.5,1
+Subject_7,Vergessen,_mp_2.0,0
+Subject_7,Zigarre,_mp_1.0,1
+Subject_7,Zigarre,_mp_1.5,0
+Subject_7,Zigarre,_mp_2.0,1
+Subject_7,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_7,Aber sehen will sie ihn doch,_mp_1.5,0
+Subject_7,Aber sehen will sie ihn doch,_mp_2.0,0
+Subject_7,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_7,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_7,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_7,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_7,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_7,Chabos wissen wer der Babo ist,_mp_2.0,0
+Subject_7,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_7,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,1
+Subject_7,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_7,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_7,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_7,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_7,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_7,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_7,Die Sosse ist viermal uebergekocht,_mp_2.0,0
+Subject_7,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,0
+Subject_7,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_7,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,0
+Subject_7,Diese Zeitung ist bereits veraltet,_mp_1.0,1
+Subject_7,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_7,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_7,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,0
+Subject_7,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_7,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_7,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_7,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_7,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_8,Badetag,_mp_1.0,1
+Subject_8,Badetag,_mp_1.5,1
+Subject_8,Badetag,_mp_2.0,1
+Subject_8,Bewirken,_mp_1.0,0
+Subject_8,Bewirken,_mp_1.5,1
+Subject_8,Bewirken,_mp_2.0,1
+Subject_8,Butterweich,_mp_1.0,1
+Subject_8,Butterweich,_mp_1.5,1
+Subject_8,Butterweich,_mp_2.0,1
+Subject_8,Giraffe,_mp_1.0,1
+Subject_8,Giraffe,_mp_1.5,0
+Subject_8,Giraffe,_mp_2.0,1
+Subject_8,Kakadu,_mp_1.0,1
+Subject_8,Kakadu,_mp_1.5,1
+Subject_8,Kakadu,_mp_2.0,1
+Subject_8,Karotte,_mp_1.0,0
+Subject_8,Karotte,_mp_1.5,0
+Subject_8,Karotte,_mp_2.0,1
+Subject_8,Kassette,_mp_1.0,1
+Subject_8,Kassette,_mp_1.5,1
+Subject_8,Kassette,_mp_2.0,1
+Subject_8,Musiker,_mp_1.0,1
+Subject_8,Musiker,_mp_1.5,0
+Subject_8,Musiker,_mp_2.0,1
+Subject_8,Vergessen,_mp_1.0,0
+Subject_8,Vergessen,_mp_1.5,0
+Subject_8,Vergessen,_mp_2.0,1
+Subject_8,Zigarre,_mp_1.0,0
+Subject_8,Zigarre,_mp_1.5,1
+Subject_8,Zigarre,_mp_2.0,0
+Subject_8,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_8,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_8,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_8,Er sah viele bunte Regenbogen,_mp_1.0,1
+Subject_8,Er sah viele bunte Regenbogen,_mp_1.5,1
+Subject_8,Er sah viele bunte Regenbogen,_mp_2.0,1
+Subject_8,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_8,Chabos wissen wer der Babo ist,_mp_1.5,0
+Subject_8,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_8,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,0
+Subject_8,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_8,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,0
+Subject_8,Die Artikel waren wieder vorraetig,_mp_1.0,0
+Subject_8,Die Artikel waren wieder vorraetig,_mp_1.5,0
+Subject_8,Die Artikel waren wieder vorraetig,_mp_2.0,1
+Subject_8,Die Sosse ist viermal uebergekocht,_mp_1.0,1
+Subject_8,Die Sosse ist viermal uebergekocht,_mp_1.5,0
+Subject_8,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_8,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_8,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_8,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_8,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_8,Diese Zeitung ist bereits veraltet,_mp_1.5,0
+Subject_8,Diese Zeitung ist bereits veraltet,_mp_2.0,0
+Subject_8,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_8,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,0
+Subject_8,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_8,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_8,Benno gefaellt die orange Vase,_mp_1.5,0
+Subject_8,Benno gefaellt die orange Vase,_mp_2.0,0
+Subject_9,Badetag,_mp_1.0,1
+Subject_9,Badetag,_mp_1.5,1
+Subject_9,Badetag,_mp_2.0,0
+Subject_9,Bewirken,_mp_1.0,1
+Subject_9,Bewirken,_mp_1.5,1
+Subject_9,Bewirken,_mp_2.0,0
+Subject_9,Butterweich,_mp_1.0,0
+Subject_9,Butterweich,_mp_1.5,0
+Subject_9,Butterweich,_mp_2.0,1
+Subject_9,Giraffe,_mp_1.0,1
+Subject_9,Giraffe,_mp_1.5,1
+Subject_9,Giraffe,_mp_2.0,1
+Subject_9,Kakadu,_mp_1.0,0
+Subject_9,Kakadu,_mp_1.5,0
+Subject_9,Kakadu,_mp_2.0,0
+Subject_9,Karotte,_mp_1.0,1
+Subject_9,Karotte,_mp_1.5,0
+Subject_9,Karotte,_mp_2.0,0
+Subject_9,Kassette,_mp_1.0,1
+Subject_9,Kassette,_mp_1.5,1
+Subject_9,Kassette,_mp_2.0,1
+Subject_9,Musiker,_mp_1.0,0
+Subject_9,Musiker,_mp_1.5,0
+Subject_9,Musiker,_mp_2.0,0
+Subject_9,Vergessen,_mp_1.0,1
+Subject_9,Vergessen,_mp_1.5,1
+Subject_9,Vergessen,_mp_2.0,0
+Subject_9,Zigarre,_mp_1.0,1
+Subject_9,Zigarre,_mp_1.5,1
+Subject_9,Zigarre,_mp_2.0,0
+Subject_9,Aber sehen will sie ihn doch,_mp_1.0,1
+Subject_9,Aber sehen will sie ihn doch,_mp_1.5,1
+Subject_9,Aber sehen will sie ihn doch,_mp_2.0,1
+Subject_9,Er sah viele bunte Regenbogen,_mp_1.0,0
+Subject_9,Er sah viele bunte Regenbogen,_mp_1.5,0
+Subject_9,Er sah viele bunte Regenbogen,_mp_2.0,0
+Subject_9,Chabos wissen wer der Babo ist,_mp_1.0,1
+Subject_9,Chabos wissen wer der Babo ist,_mp_1.5,1
+Subject_9,Chabos wissen wer der Babo ist,_mp_2.0,1
+Subject_9,Das Telefon ist seit sieben Tagen kaputt,_mp_1.0,1
+Subject_9,Das Telefon ist seit sieben Tagen kaputt,_mp_1.5,0
+Subject_9,Das Telefon ist seit sieben Tagen kaputt,_mp_2.0,1
+Subject_9,Die Artikel waren wieder vorraetig,_mp_1.0,1
+Subject_9,Die Artikel waren wieder vorraetig,_mp_1.5,1
+Subject_9,Die Artikel waren wieder vorraetig,_mp_2.0,0
+Subject_9,Die Sosse ist viermal uebergekocht,_mp_1.0,0
+Subject_9,Die Sosse ist viermal uebergekocht,_mp_1.5,1
+Subject_9,Die Sosse ist viermal uebergekocht,_mp_2.0,1
+Subject_9,Die Strassenbahn fuhr weiter geradeaus,_mp_1.0,1
+Subject_9,Die Strassenbahn fuhr weiter geradeaus,_mp_1.5,0
+Subject_9,Die Strassenbahn fuhr weiter geradeaus,_mp_2.0,1
+Subject_9,Diese Zeitung ist bereits veraltet,_mp_1.0,0
+Subject_9,Diese Zeitung ist bereits veraltet,_mp_1.5,1
+Subject_9,Diese Zeitung ist bereits veraltet,_mp_2.0,1
+Subject_9,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.0,1
+Subject_9,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_1.5,1
+Subject_9,Sie faehrt keinen Ferrari sondern einen Maserati,_mp_2.0,1
+Subject_9,Benno gefaellt die orange Vase,_mp_1.0,1
+Subject_9,Benno gefaellt die orange Vase,_mp_1.5,1
+Subject_9,Benno gefaellt die orange Vase,_mp_2.0,0
