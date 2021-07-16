@@ -1,7 +1,7 @@
-# Modelling microprosodic effects leads to an audible improvement in articulatory synthesis
+# Modelling microprosodic effects can lead to an audible improvement in articulatory synthesis
 This repository contains the supplementary materials to the paper:
 
-``"Modelling microprosodic effects leads to an audible improvement in articulatory synthesis" by Krug et al.``
+``"Modelling microprosodic effects can lead to an audible improvement in articulatory synthesis" by Krug et al.``
 
 
 ## What is this code for?
@@ -60,6 +60,8 @@ This repository contains the following files and folders:
 
 - ```Stimuli``` Contains the segment sequences and gestural scores, as well as tract sequences and audio files.
 
+- ```Experiment``` Contains the answers participants gave in the listening experiments (see the paper for details).
+
 ## Troubleshooting
 
 If PyVTL can not load the path "./API/VocalTractLabApi.dll" or "./API/VocalTractLabApi.so", the API files might not work on your operating system. The ".dll" file was compiled on Windows 10 using Visual Studio 19 and the ".so" file was compiled on Ubuntu 16.04 using g++. If you are working on a different operating system, you might need to recompile the VocalTractLab version 2.3 API directly from the source code. For download and instructions, see: https://vocaltractlab.de/index.php?page=vocaltractlab-download
@@ -70,7 +72,7 @@ If PyVTL can not load the path "./API/VocalTractLabApi.dll" or "./API/VocalTract
 
 This work is distributed under the GNU GPL 3.0 License. If you use parts of this work in your own work, please cite the following reference:
 
-- P. K. Krug et al., “Modelling microprosodic effects leads to an audible improvement in articulatory synthesis,” J. Acoust. Soc. Am., 2021 (Under review)
+- P. K. Krug et al., “Modelling microprosodic effects can lead to an audible improvement in articulatory synthesis,” J. Acoust. Soc. Am., 2021 (Under review)
 
 ## References
 <b id="f1">1</b> https://vocaltractlab.de/ [↩](#a1)
