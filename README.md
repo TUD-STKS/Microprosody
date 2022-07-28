@@ -72,7 +72,7 @@ If PyVTL can not load the path "./API/VocalTractLabApi.dll" or "./API/VocalTract
 
 This work is distributed under the GNU GPL 3.0 License. If you use parts of this work in your own work, please cite the following reference:
 
-- P. K. Krug et al., “Modelling microprosodic effects can lead to an audible improvement in articulatory synthesis,” J. Acoust. Soc. Am., 2021 (Under review)
+- P. K. Krug et al., “Modelling microprosodic effects can lead to an audible improvement in articulatory synthesis,” J. Acoust. Soc. Am., 150(2), pp. 1209-1217, 2021
 
 ## References
 <b id="f1">1</b> https://vocaltractlab.de/ [↩](#a1)
